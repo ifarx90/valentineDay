@@ -14,7 +14,6 @@
 /coverage
 
 # next.js
-/.next/
 !docs/_next/
 !docs/_next/**
 

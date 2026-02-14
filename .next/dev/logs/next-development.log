@@ -1,0 +1,37 @@
+[00:00:08.653] Server  LOG     ✓ Ready in 5.9s
+[00:00:16.572] Server  LOG     ○ Compiling / ...
+[00:00:55.282] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:57.730] Server  LOG     ✓ Finished writing to filesystem cache in 12.1s
+[00:01:11.821] Browser WARN    You are trying to animate strokeDashoffset from "undefined" to "282.7433388230814". "undefined" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[00:20:50.693] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:10.137] Browser WARN    You are trying to animate strokeDashoffset from "undefined" to "282.7433388230814". "undefined" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[00:21:37.690] Server  LOG     ○ Compiling /_not-found/page ...
+[00:21:42.334] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:08.114] Server  LOG     ✓ Finished filesystem cache database compaction in 17.4s
+[00:23:47.685] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:24:02.310] Browser WARN    You are trying to animate strokeDashoffset from "undefined" to "282.7433388230814". "undefined" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[00:25:25.640] Browser WARN    You are trying to animate strokeDashoffset from "undefined" to "282.7433388230814". "undefined" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[00:25:55.938] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:26.927] Server  LOG     ✓ Compiled in 13.8s
+[00:28:46.386] Server  LOG     ✓ Compiled in 1755ms
+[00:29:22.088] Server  LOG     ✓ Compiled in 1561ms
+[00:30:11.295] Server  LOG     ✓ Compiled in 5.7s
+[00:30:17.035] Server  LOG     ✓ Compiled in 4.1s
+[00:30:18.659] Server  LOG     ✓ Compiled in 1108ms
+[00:30:25.571] Server  LOG     ✓ Compiled in 1949ms
+[00:30:29.865] Server  LOG     ✓ Compiled in 1659ms
+[00:32:26.748] Server  LOG     ✓ Compiled in 9.1s
+[00:32:48.243] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:33:12.047] Browser WARN    You are trying to animate strokeDashoffset from "undefined" to "282.7433388230814". "undefined" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[00:33:48.852] Server  LOG     ✓ Compiled in 2.3s
+[00:34:02.272] Server  LOG     ✓ Compiled in 2.6s
+[00:34:20.608] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:34:33.243] Browser WARN    You are trying to animate strokeDashoffset from "undefined" to "282.7433388230814". "undefined" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[00:35:08.923] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:35:22.907] Browser WARN    You are trying to animate strokeDashoffset from "undefined" to "282.7433388230814". "undefined" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[00:36:02.907] Server  LOG     ✓ Compiled in 6.7s
+[00:36:29.008] Server  LOG     ✓ Compiled in 1108ms
+[00:36:33.837] Server  LOG     ✓ Compiled in 1088ms
+[00:36:50.940] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:37:07.282] Browser WARN    You are trying to animate strokeDashoffset from "undefined" to "282.7433388230814". "undefined" is not an animatable value.. For more information and steps for solving, visit https://motion.dev/troubleshooting/value-not-animatable
+[00:54:46.672] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
